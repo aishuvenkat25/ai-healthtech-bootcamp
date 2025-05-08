@@ -1,14 +1,15 @@
 # 🧠 AI-Healthcare-Project
 
-This is a beginner-friendly machine learning project focused on healthcare data, built as part of my AI mastery journey.
+This is a beginner-friendly machine learning project focused on healthcare data, built as part of my personal AI mastery journey under elite guidance.
 
 ---
 
 ## 🚀 Project Goals
 
 - Learn basic data analysis and visualization
-- Train a simple ML model on real-world healthcare data (Iris dataset for now)
-- Practice using virtual environments, Git, and Jupyter notebooks
+- Train a simple ML model on real-world healthcare data (starting with the Iris dataset)
+- Practice using professional tools: virtual environments, Git, Jupyter notebooks, and requirements handling
+- Build foundational projects to grow into world-class AI + Business + Manufacturing expert
 
 ---
 
@@ -49,7 +50,16 @@ This is a beginner-friendly machine learning project focused on healthcare data,
 
 ## 📈 Learning Outcome
 
-This project is part of a long-term goal to become an expert in AI and solve real-world problems in healthcare, manufacturing, and energy systems.
+This project is part of my unique 6-month journey to become one of the top minds in AI, business, and manufacturing.  
+With deep commitment and daily learning, my goal is to master:
+- Practical AI skills
+- Build powerful products
+- Get recruited by top global tech leaders
+- Eventually build a trillion-dollar AI empire
+
+This project is my **first building block** in that direction.
+
+
 
 
 

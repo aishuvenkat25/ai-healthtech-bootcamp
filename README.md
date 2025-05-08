@@ -1,38 +1,57 @@
-# AI-Healthcare-Project
+# 🧠 AI-Healthcare-Project
 
-This is a beginner-friendly AI project that explores healthcare datasets using Python.
+This is a beginner-friendly machine learning project focused on healthcare data, built as part of my AI mastery journey.
 
-## 🚀 Features
+---
 
-- Virtual environment setup
-- Popular AI libraries installed (NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn)
-- Jupyter notebooks support
-- Version-controlled with Git and GitHub
+## 🚀 Project Goals
 
-## 📁 Folder Structure
+- Learn basic data analysis and visualization
+- Train a simple ML model on real-world healthcare data (Iris dataset for now)
+- Practice using virtual environments, Git, and Jupyter notebooks
 
-AI-Healthcare-Project/
-├── notebooks/ <- For all Jupyter Notebooks (analysis, models)
-├── venv/ <- Virtual environment (not pushed to GitHub)
-├── .gitignore
-├── README.md <- This file!
-├── requirements.txt <- All Python libraries used
-└── test_script.py <- Sample script to test setup
+---
 
-## 📦 Libraries Used
+## 🛠️ Tech Stack
 
-- numpy
-- pandas
-- matplotlib
-- seaborn
-- scikit-learn
-- jupyter
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Scikit-learn
+- Jupyter Notebook
 
-## 📌 How to Run
+---
 
-1. Clone the repo:
-```bash
-git clone https://github.com/KB/AI-Healthcare-Project.git
+## 🧪 How to Run the Project
+
+1. Clone this repository  
+   `git clone https://github.com/KB/AI-Healthcare-Project.git`
+
+2. Navigate to the folder  
+   `cd AI-Healthcare-Project`
+
+3. Create a virtual environment  
+   `python -m venv venv`
+
+4. Activate the virtual environment  
+   Windows: `venv\Scripts\activate`  
+   Mac/Linux: `source venv/bin/activate`
+
+5. Install dependencies  
+   `pip install -r requirements.txt`
+
+6. Run the test script  
+   `python test_script.py`
+
+---
+
+## 📈 Learning Outcome
+
+This project is part of a long-term goal to become an expert in AI and solve real-world problems in healthcare, manufacturing, and energy systems.
+
+
 
 
 
